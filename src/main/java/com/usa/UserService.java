@@ -7,7 +7,7 @@ import org.springframework.stereotype.Service;
 
 /**
  *
- * @author USUARIO
+ * @author Rodigo
  */
 @Service
 public class UserService {

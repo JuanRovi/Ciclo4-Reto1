@@ -14,8 +14,10 @@ import lombok.NonNull;
 import lombok.RequiredArgsConstructor;
 
 
-
-
+/**
+ *
+ * @author Rodigo
+ */
 @Entity
 @Data
 @RequiredArgsConstructor
